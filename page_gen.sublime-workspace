@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"py",
+				"py_mod"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"tes",
+				"test"
+			],
+			[
+				"su",
+				"summary"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"fa",
+				"failedCount"
+			],
+			[
+				"run",
+				"runCount"
+			],
+			[
+				"Test",
+				"TestResult"
+			],
+			[
+				"set",
+				"setUp"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"test",
+				"testMethod"
+			],
+			[
+				"wa",
+				"wasSetUp"
+			],
+			[
+				"TEst",
+				"TestCaseTest"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"ce",
+				"createScript"
+			],
+			[
+				"i",
+				"ife	if … else"
+			],
+			[
+				"a",
+				"assert"
+			],
+			[
+				"in",
+				"innerText"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"se",
+				"secondOutput"
+			],
+			[
+				"W",
+				"wasRun"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"get",
+				"getOutput"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"crea",
+				"createTestOutput"
+			],
+			[
+				"A",
+				"add"
+			],
+			[
+				"ba",
+				"background	background-color: name"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"m",
+				"meta	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/cake.sublime-build",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"Add",
+				"Git: Add..."
+			],
+			[
+				"Comm",
+				"Git: Commit"
+			],
+			[
+				"GitA",
+				"Git: Add..."
+			],
+			[
+				"Set co",
+				"Set Syntax: Iced Coffee"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"set co",
+				"Set Syntax: Iced Coffee"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git:add",
+				"Git: Add..."
+			],
+			[
+				"CoffeS",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"Coff",
+				"Set Syntax: Iced Coffee"
+			],
+			[
+				"gita",
+				"Git: Add..."
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"git s",
+				"Git: Stash Pop"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pli",
+				"Nodejs::Build Completions"
+			],
+			[
+				"Pa",
+				"Package Control: List Packages"
+			],
+			[
+				"term",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packege",
+				"Package Control: Install Package"
+			],
+			[
+				"oa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Dis",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/anton/repos/site_for_doctor/public/index.makrdown",
+		"/Users/anton/repos/site_for_doctor/index.html",
+		"/Users/anton/repos/site_for_doctor/source/device/index.makrdown",
+		"/Users/anton/repos/site_for_doctor/source/index.makrdown",
+		"/Users/anton/repos/site_for_doctor/source/_layouts/default.html",
+		"/Users/anton/repos/site_for_doctor/octopress/source/index.html",
+		"/Users/anton/repos/site_for_doctor/octopress/source/about/index.markdown",
+		"/Users/anton/repos/site_for_doctor/octopress/.themes/classic/source/index.html",
+		"/Users/anton/repos/site_for_doctor/octopress/.themes/my-octopress-bootstrap/README.markdown",
+		"/Users/anton/repos/site_for_doctor/octopress/.themes/my-octopress-bootstrap/sass/screen.scss",
+		"/Users/anton/repos/jsunit/.gitignore",
+		"/Users/anton/repos/localtodos/stylesheets/tooltip.css",
+		"/Users/anton/repos/localtodos/stylesheets/screen.css",
+		"/Users/anton/repos/jsunit/css/styles.css",
+		"/Users/anton/repos/localtodos/index.html",
+		"/Users/anton/repos/jsunit/script/utils.coffee",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/anton/repos/blogtest/index.html",
+		"/Users/anton/repos/jsunit/lib/jsunit.js",
+		"/Users/anton/repos/jsunit/script/TestCase.coffee",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/IcedCoffeeScript/Syntaxes/IcedCoffeeScript.tmLanguage",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/User/cake.sublime-build",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/C++/C++.sublime-build",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/IcedCoffeeScript/Commands/Align Assignments.tmCommand",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/IcedCoffeeScript/package-metadata.json",
+		"/Users/anton/repos/jsunit/script/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/anton/repos/jasmine/jsdoc-template/static/index.html",
+		"/Users/anton/repos/jasmine/pages/index.html",
+		"/Users/anton/Downloads/SteveSanderson-knockout-c558d08/spec/nativeTemplateEngineBehaviors.js",
+		"/Users/anton/repos/blogtest/test/spec/PlayerSpec.js",
+		"/Users/anton/repos/blogtest/test/src/Player.js",
+		"/Users/anton/repos/blogtest/test/src/main.js",
+		"/Users/anton/repos/blogtest/test/SpecRunner.html",
+		"/Users/anton/repos/backbone-express-mongoose-socketio/public/README.markdown",
+		"/Users/anton/repos/blogtest/test/spec/MainSpec.js",
+		"/Users/anton/repos/backbone-express-mongoose-socketio/lib/controllers.js",
+		"/Users/anton/repos/backbone-express-mongoose-socketio/lib/routes.js",
+		"/Users/anton/repos/backbone-express-mongoose-socketio/lib/setup.js",
+		"/Users/anton/repos/backbone-express-mongoose-socketio/app/models/user.js",
+		"/Users/anton/repos/food_order/page.html",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/Erlang/Erlang.sublime-build",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/Python/Python.tmLanguage",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/F#/F#.tmLanguage",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/F#/F#.sublime-build",
+		"/Users/anton/Library/Application Support/Sublime Text 2/Packages/F#/F#.tmLanguage.cache"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"              <li class=\"\">\n                <a href=\"about.html\">About Company</a>\n              </li>",
+			"testTemplateMethod",
+			"()  ",
+			"run",
+			"javascript",
+			"type",
+			"maven",
+			"\"sys\"",
+			"sys",
+			"managedQuery"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 198.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true
+}
